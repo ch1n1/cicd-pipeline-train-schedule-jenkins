@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-This text has been added to simulate a commit and test that jenkins build is triggered........03012000009090
+This text has been added to simulate a commit and test that jenkins build is triggered.
